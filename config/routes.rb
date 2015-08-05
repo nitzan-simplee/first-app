@@ -19,7 +19,7 @@ FirstApp::Application.routes.draw do
   #     member do
   #       get 'short'
   #       post 'toggle'
-  #     end
+  #     endot
   #
   #     collection do
   #       get 'sold'
